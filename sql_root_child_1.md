@@ -2,6 +2,8 @@
 title: DB Schema & Querying in SQL
 ---
 
+<a href="./sql_root.md">SQL HOME</a>
+
 # Table of Contents
 
 1. [SQL Data Types & Schema](#Section1)<br>
