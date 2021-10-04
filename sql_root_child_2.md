@@ -2,7 +2,7 @@
 title: Advanced quering & db manipulations
 ---
 
-<a href="./sql_root.md">SQL HOME</a>
+<a href="./sql_root.html">SQL HOME</a>
 
 # Table of Contents
 
