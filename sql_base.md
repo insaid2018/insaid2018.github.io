@@ -2,7 +2,7 @@
 title: SQL HOME
 ---
 
-# INSAID HOME
+# Table of Contents
 
 1. [Introduction to SQL]()<br>
 2. [DB Schema & Querying in SQL]()<br>
