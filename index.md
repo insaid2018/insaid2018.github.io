@@ -2,7 +2,7 @@
 title: INSAID HOME
 ---
 
-# INSAID HOME
+# Table of Contents
 
 1. [Certifications]()<br>
     1.1 [Terms]()<br>
