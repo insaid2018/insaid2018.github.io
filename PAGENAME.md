@@ -1,9 +1,3 @@
----
-title: Second Page
-layout: Leap Day
-filename: PAGENAME.md
---- 
-
 Table of Contents
 
 1. [SubQueries](#Section1)<br>
