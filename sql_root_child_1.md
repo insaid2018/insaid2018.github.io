@@ -2,7 +2,7 @@
 title: DB Schema & Querying in SQL
 ---
 
-<a href="./sql_root.md">SQL HOME</a>
+<a href="./sql_root.html">SQL HOME</a>
 
 # Table of Contents
 
