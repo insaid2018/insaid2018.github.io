@@ -1,5 +1,5 @@
 ---
-title: DB Schema & Querying in SQL
+title: Introduction to SQL
 ---
 
 <a href="./sql_root.html">SQL HOME</a>
